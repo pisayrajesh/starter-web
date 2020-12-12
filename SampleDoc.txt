@@ -1,3 +1,6 @@
 Hi
 this is new sample doc
 try to save the same file
+
+new text added to this doc
+kindly save the new changes
