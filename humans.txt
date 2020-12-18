@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bhargavi
+    chityala
+    wanaparthy
 
 # THANKS
 
